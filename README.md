@@ -1,4 +1,6 @@
-# 💫 About Me:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rezznchase&label=Profile%20views&color=0e75b6&style=flat" alt="rezznchase" /> </p>
+
+# 🕸️ About Me:
 Hello, my name is Muhammad Rezky Pratama.<br><br>I'm currently studying informatics engineering.<br><br>I code, I play games, and I disappear.
 
 
